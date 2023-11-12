@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--- Head --->
-<h2 id="user-content-hey-im-bhagawat-adhikari" dir="auto">
-  <a class="heading-link" href="#hey-im-bhagawat-adhikari">Hey I'm </a>
+<h2 id="user-content-hey-im-kemal-suleimanov" dir="auto">
+  <a class="heading-link" href="#hey-im-kemal-suleimanov">Hey I'm </a>
   <a href="https://www.linkedin.com/in/kemalsuleimanov/" rel="nofollow">Kemal Suleimanov</a>
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
     <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></h2>
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---About me --->
 <h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me 🚀<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<p dir="auto">Hi👋, I'm Kemal, a 𝐉𝐚𝐯𝐚 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with over 6 years of experience in designing and developing scalable and reliable applications using 𝐒𝐩𝐫𝐢𝐧𝐠 and 𝐦𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬. I currently work at CYDEO, where I spearheaded the successful migration of a monolithic application to a microservices architecture, resulting in improved system performance and user experience.</p>
+<p dir="auto">I'm a 𝐉𝐚𝐯𝐚 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with over 6 years of experience in designing and developing scalable and reliable applications using 𝐒𝐩𝐫𝐢𝐧𝐠 and 𝐦𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬. I currently work at CYDEO, where I spearheaded the successful migration of a monolithic application to a microservices architecture, resulting in improved system performance and user experience.</p>
 <p dir="auto">I'm passionate about problem-solving and leveraging cutting-edge technologies to create innovative solutions that meet the ever-evolving needs of businesses. I have a master's degree in computer science and a certification in programming from GTZ. I enjoy working in a collaborative environment, where I can contribute to the team's goals and deliver high-quality software products.</p>
 <p dir="auto">Feel free to reach out to me at kemal.suleimanov.dev@gmail.com. I'm eager to connect and explore how my skills align with your team's goals and contribute to your company's continued success. Looking forward to making a difference together!🚀</p>
 <!-- <p dir="auto"> Hands on experience on working with both monolith as well as micro-service platforms, with both GraphQL and REST APIs.</p>
