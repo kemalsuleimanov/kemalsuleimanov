@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="https://www.youtube.com/channel/UCmzZ4cKQR6fQdDtvguoqe0Q" rel="nofollow">
   <img align="left" width="26px" src="https://camo.githubusercontent.com/6645c4c313a1f4f0032cd1c5e5fd0033417104a7a282fed4cafdca8ac2a1ab33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width: 100%;">
 </a>&nbsp; &nbsp;&nbsp; &nbsp; -->
-<!-- <a href="https://stackoverflow.com/users/7688667/bhagawat" rel="nofollow">
+<a href="https://stackoverflow.com/users/22902982/kemal-suleimanov" rel="nofollow">
   <img align="left" width="26px" src="https://camo.githubusercontent.com/6d229beddb12d502c05dbfa38e2f2f9b60c109a794454f7045d0c9467e9eb038/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31332e302f69636f6e732f737461636b6f766572666c6f772e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" style="max-width: 100%;">
 </a>&nbsp; &nbsp; &nbsp; &nbsp;
+<!-- 
 <a href="https://about.me/bhagawatadhikari" rel="nofollow">
   <img align="left" width="26px" src="https://camo.githubusercontent.com/c3f1141e8b643d6bd36256aee0b172e763a6c83d93db291b8d58aabd64489a29/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31332e302f69636f6e732f61626f75742d646f742d6d652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" style="max-width: 100%;">
 </a>&nbsp; &nbsp; &nbsp; &nbsp; -->
